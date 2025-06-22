@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 
 
 <!--
 **Donny1230/Donny1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+reference 
+https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile 
 -->
