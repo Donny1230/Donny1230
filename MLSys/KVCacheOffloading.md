@@ -18,5 +18,13 @@ write workloads dominated by 128 KiB requests, but the average
 bandwidth of read is much higher than write (2.0 GiB/s
 vs. 11.0 MiB/s)
 
+Tensor Sizes vs SSD Bandwidth
+
 ![image](https://github.com/user-attachments/assets/b31676c1-14fd-4c6a-bbe9-eec38ea337dd)
+
+
+
+KV Cache Offloading with FlexGen
+
+![image](https://github.com/user-attachments/assets/a5cec002-4ff5-45e7-b588-f19b534a60cd)
 
