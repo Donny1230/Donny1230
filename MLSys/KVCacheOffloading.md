@@ -1,15 +1,15 @@
-# 📄 An I/O Characterization Study of Offloading LLM Models and KV Caches to NVMe SSD  
+# An I/O Characterization Study of Offloading LLM Models and KV Caches to NVMe SSD  
 **CHEOPS ’25**  
-[🔗 Read the paper](https://atlarge-research.com/pdfs/2025-cheops-llm.pdf)
+[Read the paper](https://atlarge-research.com/pdfs/2025-cheops-llm.pdf)
 
 ---
 
-## 🔧 Problem Statement  
+## Problem Statement  
 Despite the growing use of offloading techniques for large language models (LLMs), there is a lack of in-depth studies on the **I/O characteristics and performance requirements** when offloading model weights and KV caches to NVMe SSDs.
 
 ---
 
-## 🎯 Key Contributions  
+## Key Contributions  
 
 Through comprehensive I/O trace analysis, the authors report:
 
@@ -30,7 +30,7 @@ Through comprehensive I/O trace analysis, the authors report:
 
 ---
 
-## 📊 Visual Insights
+##  Visual Insights
 
 ### Tensor Sizes vs SSD Bandwidth  
 Larger tensor sizes yield better throughput, with **libaio consistently outperforming POSIX**.
